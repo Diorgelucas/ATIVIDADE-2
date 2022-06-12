@@ -1,0 +1,21 @@
+#links {
+    text-align: justify;
+    margin-top: 80px;
+    margin-left: 6rem;
+    margin-bottom: -6px;
+}
+#imagem1 {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+.col-12 {
+    margin-left: -13rem;
+    font-size:20px;
+}
+.linha {
+    height: 1px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: black;
+}
